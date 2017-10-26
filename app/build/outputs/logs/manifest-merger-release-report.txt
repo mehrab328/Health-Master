@@ -1,0 +1,721 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:2:1-246:12
+	package
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:4:5-43
+uses-permission#com.androidtutorialpoint.mymapsappsdirection.permission.MAPS_RECEIVE
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:6:5-108
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:6:22-105
+uses-permission#android.permission.INTERNET
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:10:5-98
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:10:22-95
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:13:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:14:5-68
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:16:22-78
+application
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:18:5-244:19
+MERGED from [com.android.support:design:24.2.1] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\9.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:18:5-20:19
+MERGED from [com.android.volley:volley:1.0.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\9.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.2.1] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:21:9-41
+	android:supportsRtl
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:22:9-35
+	android:allowBackup
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:20:9-46
+	android:theme
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:23:9-40
+activity#com.threemusketeers.healthmaster.splash
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:24:9-34:20
+	android:screenOrientation
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:27:13-49
+	android:label
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:26:13-42
+	android:theme
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:28:13-63
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:25:13-35
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.threemusketeers.healthmaster.MainActivity
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:35:9-39:59
+	android:screenOrientation
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:38:13-49
+	android:label
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:37:13-42
+	android:theme
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:36:13-41
+activity#com.threemusketeers.healthmaster.login
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:40:9-43:66
+	android:screenOrientation
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:42:13-49
+	android:theme
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:43:13-63
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:41:13-34
+activity#com.threemusketeers.healthmaster.signup
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:44:9-47:66
+	android:screenOrientation
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:46:13-49
+	android:theme
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:47:13-63
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:45:13-35
+activity#com.threemusketeers.healthmaster.forgotpassword
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:48:9-51:66
+	android:screenOrientation
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:50:13-49
+	android:theme
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:51:13-63
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:49:13-43
+activity#com.threemusketeers.healthmaster.userinfo
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:52:9-60:20
+	android:screenOrientation
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:56:13-49
+	android:label
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:54:13-38
+	android:parentActivityName
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:55:13-48
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:53:13-37
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:57:13-59:42
+	android:value
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:59:17-39
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:58:17-63
+activity#com.threemusketeers.healthmaster.reminder
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:61:9-69:20
+	android:screenOrientation
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:65:13-49
+	android:label
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:63:13-42
+	android:parentActivityName
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:64:13-55
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:62:13-37
+meta-data#com.google.android.geo.API_KEY
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:79:9-81:55
+	android:value
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:81:13-52
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:80:13-58
+activity#com.threemusketeers.healthmaster.MapsActivity
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:83:9-85:59
+	android:label
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:85:13-56
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:84:13-41
+activity#com.threemusketeers.healthmaster.Profile
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:86:9-94:20
+	android:screenOrientation
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:90:13-49
+	android:label
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:88:13-36
+	android:parentActivityName
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:89:13-55
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:87:13-36
+receiver#com.threemusketeers.healthmaster.NotifyBreakfast
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:97:9-101:20
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:97:19-50
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:98:13-100:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:99:17-79
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:99:25-76
+receiver#com.threemusketeers.healthmaster.NotificationBreakfast
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:102:9-59
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:102:19-56
+receiver#com.threemusketeers.healthmaster.NotifyLunch
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:105:9-109:20
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:105:19-46
+receiver#com.threemusketeers.healthmaster.NotificationLunch
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:110:9-55
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:110:19-52
+receiver#com.threemusketeers.healthmaster.NotifySnacks
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:113:9-117:20
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:113:19-47
+receiver#com.threemusketeers.healthmaster.NotificationSnacks
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:118:9-56
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:118:19-53
+receiver#com.threemusketeers.healthmaster.NotifyDinner
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:121:9-125:20
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:121:19-47
+receiver#com.threemusketeers.healthmaster.NotificationDinner
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:126:9-56
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:126:19-53
+meta-data#android.app.default_searchable
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:128:9-130:46
+	android:value
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:130:13-43
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:129:13-58
+activity#com.threemusketeers.healthmaster.FoodNutrition
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:132:9-149:20
+	android:screenOrientation
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:137:13-49
+	android:label
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:134:13-43
+	android:parentActivityName
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:136:13-55
+	android:launchMode
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:135:13-43
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:133:13-42
+intent-filter#android.intent.action.SEARCH+android.intent.action.VIEW
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:138:13-141:29
+action#android.intent.action.SEARCH
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:139:17-71
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:139:25-68
+action#android.intent.action.VIEW
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:140:17-69
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:140:25-66
+meta-data#android.app.searchable
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:146:13-148:54
+	android:resource
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:148:17-51
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:147:17-54
+activity#com.threemusketeers.healthmaster.FoodPlan
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:150:9-158:20
+	android:screenOrientation
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:154:13-49
+	android:label
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:152:13-38
+	android:parentActivityName
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:153:13-55
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:151:13-37
+activity#com.threemusketeers.healthmaster.Details
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:159:9-167:20
+	android:screenOrientation
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:163:13-49
+	android:label
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:161:13-38
+	android:parentActivityName
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:162:13-51
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:160:13-36
+activity#com.threemusketeers.healthmaster.FoodExchange
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:169:9-177:20
+	android:screenOrientation
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:173:13-49
+	android:label
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:171:13-42
+	android:parentActivityName
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:172:13-55
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:170:13-41
+activity#com.threemusketeers.healthmaster.FoodExchangeDetails
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:179:9-187:20
+	android:screenOrientation
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:183:13-49
+	android:label
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:181:13-42
+	android:parentActivityName
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:182:13-55
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:180:13-48
+activity#com.threemusketeers.healthmaster.ImageListView
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:189:9-197:20
+	android:screenOrientation
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:193:13-49
+	android:label
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:191:13-40
+	android:parentActivityName
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:192:13-55
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:190:13-42
+activity#com.threemusketeers.healthmaster.AboutUs
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:199:9-207:20
+	android:screenOrientation
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:203:13-49
+	android:label
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:201:13-37
+	android:parentActivityName
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:202:13-55
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:200:13-36
+activity#com.threemusketeers.healthmaster.TipsDetails
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:209:9-217:20
+	android:screenOrientation
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:213:13-49
+	android:label
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:211:13-40
+	android:parentActivityName
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:212:13-56
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:210:13-40
+activity#com.threemusketeers.healthmaster.References
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:219:9-227:20
+	android:screenOrientation
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:223:13-49
+	android:label
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:221:13-39
+	android:parentActivityName
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:222:13-55
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:220:13-39
+activity#com.threemusketeers.healthmaster.WelcomeActivity
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:229:9-232:59
+	android:screenOrientation
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:231:13-49
+	android:theme
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:232:13-56
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:230:13-44
+activity#com.threemusketeers.healthmaster.Feedback
+ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:234:9-242:20
+	android:screenOrientation
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:238:13-49
+	android:label
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:236:13-37
+	android:parentActivityName
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:237:13-55
+	android:name
+		ADDED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml:235:13-37
+uses-sdk
+INJECTED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:24.2.1] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\9.8.0\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:mediarouter-v7:24.0.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-crash:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-auth:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-module:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-storage:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-fitness:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.android.volley:volley:1.0.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\AndroidManifest.xml:7:5-43
+MERGED from [com.google.firebase:firebase-core:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\9.8.0\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.2.1] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\HealthMaster2\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\AndroidManifest.xml:27:23-69
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\AndroidManifest.xml:30:27-75
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:6:79-124
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] F:\Android\HealthMaster2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:20-65

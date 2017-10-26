@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Raadu\\HealthMaster2\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "C:\\Users\\Raadu\\HealthMaster2\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\Android\\HealthMaster2\\app\\build\\intermediates\\res\\merged\\release\\menu\\activity_main_drawer.xml",
+        "source": "F:\\Android\\HealthMaster2\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "F:\\Android\\HealthMaster2\\app\\build\\intermediates\\res\\merged\\release\\menu\\search_main.xml",
+        "source": "F:\\Android\\HealthMaster2\\app\\src\\main\\res\\menu\\search_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Raadu\\HealthMaster2\\app\\build\\intermediates\\res\\merged\\release\\menu\\search_main.xml",
+        "source": "C:\\Users\\Raadu\\HealthMaster2\\app\\src\\main\\res\\menu\\search_main.xml"
+    },
+    {
+        "merged": "F:\\Android\\HealthMaster2\\app\\build\\intermediates\\res\\merged\\release\\menu\\restrictions.xml",
+        "source": "F:\\Android\\HealthMaster2\\app\\src\\main\\res\\menu\\restrictions.xml"
+    },
+    {
+        "merged": "F:\\Android\\HealthMaster2\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "F:\\Android\\HealthMaster2\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Raadu\\HealthMaster2\\app\\build\\intermediates\\res\\merged\\release\\menu\\restrictions.xml",
+        "source": "C:\\Users\\Raadu\\HealthMaster2\\app\\src\\main\\res\\menu\\restrictions.xml"
+    },
+    {
+        "merged": "C:\\Users\\Raadu\\HealthMaster2\\app\\build\\intermediates\\res\\merged\\release\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\Raadu\\HealthMaster2\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    }
+]
